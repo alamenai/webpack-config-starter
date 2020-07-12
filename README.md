@@ -28,7 +28,7 @@ There are problems with managing JavaScript projects this way:
 * Open [`index.html`](index.html) in your browser.
 
 ### Without webpack.config.js
->Webpack +4 does not require webpack.config.js for small projects
+>Webpack +4 does not require webpack.config.js for basic configuration
 
 * Check and read [`index.js`](index.js).
 * Notice that I added `import _ from "lodash"` in the script.
