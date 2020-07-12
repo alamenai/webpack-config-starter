@@ -1,0 +1,31 @@
+{
+    "name": "webpack-config-starter",
+    "version": "1.0.0",
+    "description": "Collection of webpack configuration files for different usecases",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MenaiAla/webpack-config-starter.git"
+    },
+    "keywords": [
+        "webpack",
+        "webpack-config"
+    ],
+    "author": "Menai Ala Eddine",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MenaiAla/webpack-config-starter/issues"
+    },
+    "homepage": "https://github.com/MenaiAla/webpack-config-starter#readme",
+    "dependencies": {
+        "lodash": "^4.17.19"
+    },
+    "devDependencies": {
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.12"
+    }
+}
